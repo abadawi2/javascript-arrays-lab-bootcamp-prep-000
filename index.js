@@ -1,4 +1,3 @@
-var kittens = ["Milo", "Otis", "Garfield"]
+kittens = ["Milo", "Otis", "Garfield"]
 
 destructivelyAppendKitten(name) = kittens.push(kittens)
-
