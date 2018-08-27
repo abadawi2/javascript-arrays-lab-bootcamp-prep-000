@@ -1,1 +1,1 @@
-// Add your functions and code here
+var array.kittens= ["Milo", "Otis", "Garfield"]
