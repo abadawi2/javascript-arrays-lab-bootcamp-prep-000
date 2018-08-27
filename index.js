@@ -20,6 +20,13 @@ function destructivelyRemoveFirstKitten(name) {
 }
 
 function appendKitten(name) {
-  kittens.splice(2,0,'kitten');
-  console.log(kittens);
+  var newkittens= (...kittens);
+  newKittens.push(kitten);
+  return newKittens;
 }
+
+function prependKitten (name {
+  var newKittens= (...kittens)
+  newkittens.unshift(kitten);
+  return newKittens;
+})
