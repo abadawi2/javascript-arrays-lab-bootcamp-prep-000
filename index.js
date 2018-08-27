@@ -6,5 +6,5 @@ return kittens;
 }
 function destructivelyPrependKitten(name) {
   kittens.unshift(name);
-  return kitten;
+  return kittens;
 }
