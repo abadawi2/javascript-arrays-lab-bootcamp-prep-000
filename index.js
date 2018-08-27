@@ -1,1 +1,4 @@
-var array.kittens= ["Milo", "Otis", "Garfield"]
+var kittens = ["Milo", "Otis", "Garfield"]
+
+destructivelyAppendKitten(name) = kittens.push(kittens)
+
